@@ -1,0 +1,74 @@
+﻿index,labels,pred,score_0,score_1,score_2,score_3,score_4,score_5,text
+0,4,4,0.969,-1.122,-1.584,-2.213,5.01,-1.487,My husband is always complaining about my financial behavior
+1,4,4,1.274,-0.764,-1.475,-2.252,4.348,-1.845,My mother always has something to say
+2,4,4,-0.008,-0.22,-1.573,-2.358,4.971,-1.428,She used my car without my permission!
+3,3,3,-0.971,-0.649,-0.781,5.534,-1.715,-0.92,"Hey, what’s up"
+4,0,1,0.567,2.82,-2.676,-1.333,2.118,-1.44,Fuck off!
+5,1,1,-0.25,4.986,-2.12,-1.078,-0.899,-0.52,I was wrong about that.
+6,5,5,-1.01,-0.964,-1.22,0.482,-1.7,4.782,You made an impressive speech up there! Congratulation!
+7,2,2,-1.165,-1.218,5.991,-0.933,-0.878,-1.449,Can you please bring me a drink?
+8,2,2,-1.178,-1.287,5.954,-1.028,-0.641,-1.432,Could you please open the door for that old lady?
+9,0,0,4.632,-1.097,-1.922,-1.839,0.848,-1.368,They didn’t find gold in the mine.
+10,2,2,-1.122,-1.368,5.932,-0.949,-0.756,-1.486,Do you mind giving me a hand with my luggage?
+11,2,2,-1.184,-1.259,5.995,-0.942,-0.776,-1.46,Could you please help me with my homework?
+12,4,4,-0.313,1.3,-2.081,-2.385,4.371,-1.365,"The movie was very bad, I regret that we watched it"
+13,2,2,-0.852,-1.62,5.182,-1.463,0.83,-1.916,"If youre not too busy, I would love to get your feedback"
+14,4,4,0.228,-0.686,-1.574,-2.033,4.991,-1.285,She is treating me as if I was her servant
+15,0,4,0.847,-0.723,-2.182,-2.316,4.976,-1.051,He is the most selfish asshole I’ve ever met.
+16,0,4,-0.244,-0.567,-1.713,-2.134,5.112,-0.798,You make me sick.
+17,4,4,0.304,-0.571,-1.336,-1.912,4.824,-1.728,Dmitry is always screwing up
+18,2,2,0.031,-1.456,5.501,-1.411,-0.747,-1.721,Please get the things from the supermarket if its not too much trouble.
+19,1,1,-1.266,5.328,-1.488,-0.625,-1.004,-0.754,I am sorry for what I said
+20,3,3,-0.895,-0.793,-0.789,5.652,-1.679,-0.874,"Hi, my name is Anwar"
+21,5,3,-0.909,-0.443,-0.813,2.865,-2.707,2.542,Thanks for your compliments.
+22,3,3,-1.0,-0.762,-0.73,5.672,-1.699,-0.831,I'm glad to meet you
+23,1,1,-1.324,5.391,-1.526,-0.724,-0.8,-0.675,I have reflected on my actions and I regret them
+24,2,2,-1.216,-1.189,5.842,-1.326,-0.339,-1.58,"Mom, can you close the door, please?"
+25,1,1,-1.07,5.258,-1.654,-0.746,-0.937,-0.814,I accept that I am to blame
+26,5,5,-0.701,-0.978,-1.391,-0.914,-0.537,5.028,You’re so good to me
+27,2,2,-0.865,-1.416,5.871,-1.321,-0.356,-1.734,Can you please tell me where the nearest post office is?
+28,5,5,-0.307,-1.024,-1.444,-0.791,-1.1,5.147,That’s a great-looking car of yours.
+29,1,1,-1.392,5.332,-1.489,-0.877,-0.612,-0.766,I’ve mucked that up.
+30,5,5,-0.061,-1.191,-1.373,-0.832,-1.114,5.066,Your resume is impressive.
+31,0,0,2.949,-1.306,-1.797,2.155,-1.438,-0.772,"Come on, who told you this story?"
+32,4,4,-0.251,0.046,-1.806,-1.987,5.032,-1.465,I’m pissed off by their attitude
+33,2,2,-1.128,-1.207,5.983,-0.985,-0.962,-1.349,Would it be possible for you to please help me with this?
+34,5,5,-0.293,-0.857,-1.487,-0.707,-1.363,5.163,What an elegant dress!
+35,2,2,-1.133,-1.272,5.966,-1.12,-0.654,-1.462,Can you please provide me with more information about Daniel? I would appreciate it if you could
+36,0,0,4.87,-1.321,-1.82,-0.602,-1.446,-0.023,What’s the size of your shoes?
+37,3,3,-0.957,-0.739,-0.753,5.666,-1.746,-0.851,"Hello, nice to meet you"
+38,3,3,-0.816,-0.826,-0.84,5.684,-1.675,-0.951,"Hello, Susan"
+39,1,1,-1.276,5.349,-1.331,-0.721,-0.851,-0.891,I'd like to apologize
+40,3,3,-0.76,-0.952,-0.555,5.477,-1.926,-0.54,I’ve been looking forward to meeting you
+41,0,0,2.74,-0.512,1.116,-2.903,1.179,-2.391,I'll have to check that out
+42,2,2,-1.131,-1.287,5.928,-1.078,-0.558,-1.632,"Excuse me, could you please tell me where the nearest post office is?"
+43,4,4,-1.088,-0.442,0.947,-1.863,4.181,-2.051,"Excuse me, but there seems to be a problem with the machine"
+44,1,1,-0.588,5.176,-1.93,-1.017,-0.632,-0.657,Whoops!
+45,2,2,-0.654,-1.516,4.329,-2.133,1.88,-2.368,I was wondering if you could cancel my order. My guests arent coming.
+46,3,3,-0.757,-0.416,-1.058,5.489,-2.031,-0.712,Bye
+47,1,1,-1.359,5.359,-1.097,-0.982,-0.591,-1.074,I owe you an apology.
+48,4,4,0.176,-0.927,-1.493,-2.0,5.065,-0.971,The meeting is very boring
+49,2,2,-0.433,-1.612,5.793,-0.872,-0.967,-1.435,I was wondering if it would be possible for you to write a short description of the project for our website.
+50,0,0,5.074,-1.309,-1.34,-1.593,-0.205,-1.189,I’m not sure where the pub is located.
+51,2,2,-1.137,-1.257,5.972,-0.942,-0.898,-1.422,"Can I have a slice of pizza, please?"
+52,1,1,-1.217,5.332,-1.625,-0.867,-0.701,-0.63,"Looking back, I now realize that I’ve made a mistake"
+53,3,3,-0.748,-0.752,-1.023,5.66,-1.889,-0.734,Hello and welcome.
+54,3,3,-0.86,-0.758,-0.761,5.629,-1.675,-0.915,"Hello, how are you doing today?"
+55,5,5,-0.259,-0.868,-1.498,-0.681,-1.395,5.15,What a wonderful dress!
+56,2,2,-1.124,-1.217,5.99,-0.925,-0.879,-1.478,Would you please hand me the mic?
+57,2,2,-1.022,-1.297,5.923,-1.222,-0.662,-1.465,Would you please turn on some more lights?
+58,3,3,-1.026,-0.795,-0.668,5.669,-1.67,-0.848,"Hi, My name is Michelle and it's nice to meet you"
+59,0,4,1.941,-0.897,-2.013,-2.41,4.473,-1.368,Roger is one of the most corrupt politicians I have ever known.
+60,1,1,-0.588,5.132,-1.868,-0.801,-0.658,-1.039,I don't know what got into me
+61,1,1,-1.363,5.345,-1.439,-0.593,-1.029,-0.691,I am really sorry for what I did
+62,4,4,0.247,-0.821,-1.232,-2.072,4.92,-1.578,Why did you forget to pick me up from the airport?!
+63,2,2,1.663,-1.263,3.701,-2.66,0.38,-2.019,Visiting your ant would really help.
+64,2,2,-1.26,-1.155,5.981,-0.964,-0.781,-1.46,Can I please have a glass of water?
+65,5,5,-0.063,-0.735,-1.66,-0.656,-1.556,5.1,She has lovely eyes.
+66,2,2,-1.415,-1.336,5.732,-0.704,-0.465,-1.573,Excuse me! Would you mind leaving this seat for this old lady?
+67,1,1,-1.466,5.289,-1.344,-0.834,-0.261,-0.998,I’m sorry to bother you.
+68,1,1,-1.033,5.383,-1.615,-0.903,-0.723,-0.748,There is no excuse for my actions
+69,5,5,0.931,-1.309,-1.755,-1.322,-0.668,4.675,She is the strongest athlete on our team
+70,2,2,-0.867,-1.409,5.927,-1.093,-0.677,-1.645,Can I please have more information about the expenses?
+71,5,5,-0.596,-0.783,-1.354,-0.735,-1.281,5.133,You are very handsome
+72,0,3,-0.857,-1.189,0.004,5.143,-2.237,-0.531,Thanks for inviting us for dinner
