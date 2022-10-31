@@ -2,7 +2,7 @@ import pandas as pd
 import sklearn.metrics
 from simpletransformers.classification import ClassificationModel
 from sklearn.metrics import precision_recall_fscore_support, accuracy_score
-import Code.logger as logger
+import logger as logger
 import os
 
 run_dir = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))

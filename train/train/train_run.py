@@ -2,7 +2,7 @@ import pandas as pd
 from simpletransformers.classification import ClassificationModel
 import sklearn
 from sklearn.metrics import precision_recall_fscore_support, accuracy_score
-import Code.logger as logger
+import logger as logger
 from pathlib import Path
 import os
 
