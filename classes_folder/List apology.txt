@@ -1,0 +1,127 @@
+1.	I am sorry for what I said
+2.	I'm sorry I hurt your feelings
+3.	I'm sorry for what I did
+4.	I am really sorry for what I did
+5.	I'm sorry for causing problems or unhappiness
+6.	I must apologize to Isobel for my lateness.
+7.	I’ve made a mistake. 
+8.	I’ve messed up. 
+9.	I’ve slipped up.
+10.	I’ve fudged that up.
+11.	I’ve mucked that up.
+12.	I’ve bungled that up.
+13.	I’ve made a blunder.
+14.	Oops, I ate the last cookie.
+15.	I’m sorry that I forgot your birthday. 
+16.	I’m sorry, I didn’t mean to do that.
+17.	I’m sorry.	
+18.	I’m so sorry about that.	
+19.	I feel terrible, I’m so sorry.	
+20.	I’m so sorry, that was thoughtless of me.	
+21.	I’m sorry, that was wrong of me.	
+22.	I was wrong about that.	
+23.	I’m sorry, that was my fault.
+24.	I’m very sorry for the way I behaved.
+25.	I apologize. I was out of line.	
+26.	You can blame me for that.	
+27.	How should I apologize to you?	
+28.	I wanted to say I’m sorry
+29.	I want to tell you I’m sorry.
+30.	My bad!
+31.	I messed up.	
+32.	I screwed up.	
+33.	Sorry about that!	
+34.	Oops!
+35.	Whoops!	
+36.	Oopsie-daisy!	
+37.	My mistake!	
+38.	Mea culpa!
+39.	Oh my goodness! I’m so sorry.	
+40.	Sorry, I didn’t mean to do that.
+41.	I sincerely apologize.	
+42.	I’d like to apologize for how I behaved.	 
+43.	I owe you an apology.
+44.	Ever so sorry.	
+45.	Sorry for the inconvenience caused.	
+46.	Sorry for the late reply.	
+47.	Please forgive the lengthy delay.	
+48.	I apologize for the confusion.
+49.	I’m sorry to bother you.	
+50.	Sorry I couldn’t attend the meeting.
+51.	Can you forgive me?	
+52.	Please forgive me.	
+53.	Please forgive me for my behavior.	
+54.	Sorry, I won’t do it again. Please forgive me.	
+55.	I hope you can forgive me.	
+56.	How can I make it up to you?
+57.	I truly regret it.	
+58.	I’m ashamed of my behavior.	
+59.	I wish I could take it back.	
+60.	I wish I hadn’t done that.	
+61.	I didn’t mean to hurt you.	
+62.	I didn’t mean to offend you.
+63.	I feel so wrong about this.
+64.	I apologize
+65.	I'm really sorry
+66.	I'm so sorry
+67.	Sorry
+68.	It was my fault
+69.	I'm sorry if I hurt your feelings
+70.	I must apologize
+71.	I hope you can forgive me 
+72.	I really am so sorry
+73.	I wasn't doing my job
+74.	I'd like to apologize
+75.	Please forgive me
+76.	It was very inconsiderate of me
+77.	I know my actions insulted you
+78.	Looking back, I now realize that I’ve made a mistake
+79.	Please don't be angry
+80.	I accept full responsibility for my behavior
+81.	I feel ashamed
+82.	I can understand how you feel about what I’ve said
+83.	I do apologize
+84.	I don't know what to say
+85.	I really am most terribly sorry
+86.	I regret...
+87.	I take all the blame
+88.	Pardon me!
+89.	Please accept my apologies
+90.	Please excuse my behavior
+91.	I now realize that I shouldn't have done that
+92.	I'm sure you must be disappointed in me
+93.	Please don't be mad 
+94.	I accept that I am to blame
+95.	I am such an idiot
+96.	I am sorry to have disappointed you
+97.	I apologize wholeheartedly
+98.	I cannot say how sorry I am
+99.	I have reflected on my actions and I regret them
+100.	I know it was wrong of me to speak like that 
+101.	If I could turn back the clock, I would have behaved differently
+102.	It was a bit insensitive of me 
+103.	Please accept my sincere apologies
+104.	There is no excuse for my actions
+105.	You are right to blame me
+106.	You must forgive me
+107.	I have let you down 
+108.	I know it was thoughtless of me
+109.	D'oh!
+110.	I can see how you might be annoyed by what I did
+111.	I can't believe I was such insenstive
+112.	I don't know what came over me
+113.	I don't know what got into me
+114.	I just want the ground to swallow me up
+115.	I take full responsibility
+116.	I think I went a bit too far
+117.	I was in the wrong
+118.	I messed up
+119.	I would like to express my regret
+120.	I'm happy to take my share of the blame
+121.	If I could take it all back, I would
+122.	It was inexcusable
+123.	It's unforgivable, I know
+124.	Please don't hold a grudge
+125.	Don't hold this against me
+126.	Silly me!
+

@@ -1,0 +1,100 @@
+1.	Hello, nice to meet you	
+2.	Hello, nice to see you		
+3.	Hello, how are you doing?		
+4.	Hello Sue, how are you?		
+5.	Hello there
+6.	Nice to meet you. 
+7.	So nice to meet you
+8.	I’ve been looking forward to meeting you
+9.	I’ve heard so much about you
+10.	Hello and welcome.
+11.	Good morning. How are you?
+12.	How are you?
+13.	What’s up
+14.	How are you going?
+15.	Yo, what’s up?
+16.	Where’ve you been?
+17.	Whassup?
+18.	Hey man
+19.	Hey dude
+20.	How are you guys?
+21.	Hey, what’s up
+22.	Cheers
+23.	You right?
+24.	How ya goin?
+25.	How are ya?
+26.	Howdy
+27.	What’s going on?
+28.	What do you know?
+29.	Happy new year!
+30.	Happy Christmas!
+31.	My father sends his regards
+32.	Good morning
+33.	Hi, how are you?
+34.	Good night
+35.	Goodbye
+36.	Bye bye
+37.	Bye
+38.	See you later
+39.	See you
+40.	Good luck!
+41.	Well done!
+42.	Congratulations!
+43.	Wishing you all the best
+44.	Good morning! How are you today?
+45.	Good morning, Mr. Jones
+46.	Good morning, sir
+47.	Good morning
+48.	Good afternoon
+49.	Good evening
+50.	Good morning Daniel
+51.	Good to see you
+52.	Hello, Susan
+53.	Hello, Ming
+54.	Hello, Mr. Yin 
+55.	Hello, how are you doing today?
+56.	Hello, it's nice to meet you
+57.	Hello, my name is Brennon
+58.	Hello, my name is Delwin
+59.	Hello, my name is Jiaying
+60.	Hello, nice to meet you
+61.	Hello, welcome
+62.	Hi, I'm Gerry
+63.	Hi, my name is Tove
+64.	I hope you have a great day
+65.	I hope you have a wonderful day
+66.	I hope you're doing well
+67.	I wish you all the best in your future endeavors
+68.	I'm glad to meet you
+69.	It's nice to meet you
+70.	Nice to meet you
+71.	Welcome! I'm glad to see you
+72.	Welcome! I'm glad you're here
+73.	Welcome! I'm so glad you could join us
+74.	Welcome! My name is Dale and it's nice to meet you
+75.	Great to meet you! Wishing you all the best
+76.	Great to see you!
+77.	Have a great day!
+78.	Hello, it is nice to meet you
+79.	Hello, my friend
+80.	Hello, my name is Alexandros
+81.	Hi there! Welcome to our shop! Let me know if you need any help finding anything
+82.	Hi, My name is Michelle and it's nice to meet you
+83.	Hi, it's nice to meet you
+84.	Hi, my name is Anwar
+85.	I hope you have a great day
+86.	I hope you have a wonderful day
+87.	I'm glad to meet you
+88.	It's nice to meet you
+89.	May the best of what this life has to offer be yours today and always
+90.	May you always be blessed with good health and happiness
+91.	May you have a wonderful day!
+92.	May you live a long and happy life
+93.	Nice to meet you! Please welcome in. 
+94.	Welcome! It's great to see you again
+95.	Welcome! It's nice to meet you
+96.	Welcome! It's so nice to meet you
+97.	Welcome! Thank you for coming
+98.	I’m so happy to see you
+99.	Hi, this is ant Zhang. Welcome uncle.
+100.	Long time no seen. It is such a pleasure meeting you again.  

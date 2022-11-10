@@ -1,0 +1,198 @@
+1.	Can you please tell me the time?
+2.	Could you write down the name and address of the contact person?
+3.	I was wondering if you could possibly meet my assistant for detailed feedback.
+4.	Mom, can you close the door, please?
+5.	Honey, can you please eat with your mouth closed?
+6.	Can you shut the window? The room is already too cold.
+7.	Anna, can you bring me the newspaper, please?
+8.	Bob, will you stop bothering mom? Shes working.
+9.	Hey, can you please receive the parcel? Im going to take a shower.
+10.	Could you get me a cup of coffee?
+11.	Will you stop making noise? I cant concentrate on my study.
+12.	Could you feed something to the baby?
+13.	Could you turn off the lights, please? I cant sleep.
+14.	Teacher, would you mind giving me detailed feedback on my homework?
+15.	Can you pass me that book?
+16.	Could you please help me with my homework?
+17.	I was wondering if you could write a recommendation letter for me.
+18.	I was wondering if it would be possible for you to send me the feedback tomorrow.
+19.	Could you please keep quiet?
+20.	Can you please change your seat?
+21.	Could you show me the way to the library?
+22.	Can you please hold this book for me?
+23.	Will you pass me the ball?
+24.	Could you give me some time after lunch?
+25.	I was wondering if could reschedule the meeting next week.
+26.	Could you please send me the project files in the zip format?
+27.	Do you mind passing me the stapler?
+28.	I was wondering if it would be possible for you to write a short description of the project for our website.
+29.	Would you please take your seat?
+30.	Would you please hand me the mic?
+31.	John, would you mind helping Sarah in preparing the draft budget? Thanks in advance!
+32.	Could you possibly meet me next week at the office?
+33.	Could you telephone me in the afternoon?
+34.	Can you add some extra cheese?
+35.	Could you please make it a double?
+36.	Excuse me! Would you mind leaving this seat for this old lady?
+37.	Do you mind passing me the salt?
+38.	Can you play some soft music?
+39.	Could you please arrange one more table for us?
+40.	I was wondering if you could cancel my order. My guests arent coming.
+41.	Could you please change this food? I can see a fly on the rice.
+42.	Would you please turn on some more lights?
+43.	Can you give us some forks?
+44.	Would you mind moving aside?
+45.	Could you please press level 5?
+46.	Could you tell me how to get to the supermarket?
+47.	Do you mind giving me a hand with my luggage?
+48.	Would you mind holding the baby for me?
+49.	I wonder if you could help me hire a taxi. Im pretty new here.
+50.	Could you please keep an eye on my dog? Ill be right back.
+51.	Could you change the destination on my ticket? Id like to go to NoHo instead of Bowery.
+52.	Could you please open the door for that old lady?
+53.	I wonder if you could drive a little faster.
+54.	Visiting your ant would really help.
+55.	Please move your car if its not too much trouble.
+56.	Can I request you move forward?
+57.	Do you have a book that you could lend me?
+58.	Have you got any interesting books that I could borrow?
+59.	Have you got time to meet me?
+60.	I dont think I can do it on my own.
+61.	I heard that you are good at Math
+62.	I need your help with cooking the dinner
+63.	Id like to request that you will clean your room
+64.	Thanks in advance for helping me in finding the address
+65.	You can bring uncle John from the train station, cant you? 
+66.	and Ill do the same for you some day.
+67.	...said you were the best person to ask for advice
+68.	Please get the things from the supermarket if its not too much trouble.
+69.	Tom suggested I ask for your help with the homework
+70.	Can I ask you to help your sister?
+71.	Could you by any chance help him fix the machine?
+72.	Do you think you could help me carry the suitcase?
+73.	I heard that you are an expert on computers and can help me
+74.	If youre not too busy, I would love to get your feedback
+75.	If you may reduce the commission, that would be a great help.
+76.	Would it be possible for you to examine him today?
+77.	Would you mind feeding the cat while we are on vacation?
+78.	Any assistance you could give me in this matter would be gratefully accepted.
+79.	Are you any good at mechanics?
+80.	Can I leave it to you?
+81.	Help me to cook breakfast, will you?
+82.	I could use some help, actually. 
+83.	I have a request...
+84.	I have a favor to ask you. 
+85.	I was hoping you could talk with him for me.
+86.	Id like to officially request him to join our office.
+87.	If you want to help, you could just boil the water
+88.	You know you said you would support us? 
+89.	A little bird told me you know all about real estate.
+90.	About that favour you owe me,...
+91.	Do me a favour, will you? ...
+92.	Heres your chance to repay me for...
+93.	I could do with some help actually. 
+94.	I was hoping youd be here for fixing the door. 
+95.	Is what Im asking too much?
+96.	Theres something I think you can help me with. ...
+97.	You dont mind talking with Shelly for me, do you?
+
+98.	Can I borrow the book from you?
+99.	Would you mind lending me ten cents?
+100.	Can I use your phone?
+101.	Can you give me your hand?
+102.	Could I possibly use your phone?
+103.	Could you possibly help me find where the museum is?
+104.	I look forward to hearing from you soon.
+105.	I need to find my way to the train station. Can you help?
+106.	Id be very grateful if you could explain it again
+107.	May I use your help?
+108.	Can you please turn off the lights?
+109.	Can I have a slice of pizza, please?
+110.	Please pass the salt
+111.	Can you please turn off the light?
+112.	Can you please help me with my homework?
+113.	Can you please help me with my math homework?
+114.	Please could you turn off the light?
+115.	Can you please turn off the lights?
+116.	Can you please bring me a glass of water?
+117.	Can you please pass me the salt?
+118.	I would like to request a meeting with you to discuss the project we are working on together
+119.	I would like for you to get me a drink
+120.	Katrell: Please bring me a glass of water
+121.	Please take out the trash
+122.	Can you please sign this petition?
+123.	Please could you send me the updated version of the report?
+124.	Can I have a pen?
+125.	Can you please take out the trash?
+126.	Can I get a large iced coffee with two pumps of vanilla and one pump 
+127.	Saba: Can you please turn off the light?
+128.	Can you please send me the contact information for the person in charge of scheduling for your department?
+129.	I would like to request that you please stop talking during class
+130.	Can you please bring me a drink?
+131.	I would like a large order of chicken nuggets
+132.	Can I please have a glass of water?
+133.	Can you please help me with my math homework?
+134.	Can I have a glass of water, please?
+135.	Can you please turn off the light?
+136.	Can you give me an example of a request?
+137.	Can I have a glass of water, please?
+138.	Can you please bring me a drink?
+139.	Can you please turn down the music? Its really loud and I cant concentrate
+140.	Could you please pass me the salt?
+141.	Excuse me, could I please borrow a pen?
+142.	Could you please pass the salt?
+143.	Excuse me, could I please have a glass of water?
+144.	Could you please hand me that book?
+145.	Would you mind passing me the salt, please?
+146.	Please could you pass me the salt?
+147.	Would you mind giving me a hand with this heavy box?
+148.	Can I please have a cup of coffee?
+149.	Would it be possible for you to please help me with this?
+150.	Please could I have a glass of water?
+151.	 Excuse me, could I please have a glass of water?
+152.	Could you please help me with my homework?
+153.	Would you mind passing me the salt, please?
+154.	May I please have a glass of water?
+155.	Could I please have a glass of water?
+156.	Could I please have a cup of coffee?
+157.	Can I please have a glass of water?
+158.	Can I please have a cup of water?
+159.	Excuse me, can I please have a pen?
+160.	May I please have a glass of water?
+161.	Can I have a glass of water, please?
+162.	Can I please have a glass of water?
+163.	Can I please have a cup of coffee?
+164.	May I please have a napkin?
+165.	Can I please have your name?  Can I please have your contact information?
+166.	Can you please provide me with more information about X?  Can you please
+167.	Can you please provide me with more information about X? I would appreciate it if you
+168.	Can I please get some more information on that? Im not sure I understand completely
+169.	Can you please provide me with more information on that?  Can you please
+170.	Can you please provide me with more information about your product? I would appreciate it if you
+171.	Could you please provide me with more information on your companys policies? or Could
+172.	Would it be possible to get more information on the project deadline?  Can
+173.	Can you please provide me with more information about X? or Can you please do
+174.	Can you please provide me with more information about your product? I’m interested in learning more
+175.	Excuse me, could you please tell me where the nearest post office is?
+176.	Can you please give me more information about John?  Can you please do
+177.	Could you please provide me with more information about John? I would appreciate it if you could
+178.	Could you please provide me with more information about Dan? I would appreciate it if you
+179.	Can you please provide me with more information about Daniel? I would appreciate it if you could
+180.	Would it be possible to get more information on the project deadline?
+181.	Could you please provide me with more information about Suzan?  Would it be
+182.	Can you please tell me where the nearest post office is?
+183.	Can you please provide me with more information on that? I would appreciate it if you could
+184.	Can you please provide me with more information about the project? I would appreciate it if you
+185.	Can you please provide me with the information I need in order to complete this task?
+186.	Excuse me, could you please tell me where the nearest post office is?
+187.	Could you please provide me with more information about Jennifer? or Could you please do
+188.	I’m sorry to bother you, but could you please tell me where the nearest post
+189.	Could you please provide me with more information about Sheila?  Could you please
+190.	I’m sorry to bother you, but could you please tell me where the bathroom is
+191.	Can you please provide me with more information about your services?
+192.	Could you please provide me with more information about your product?
+193.	I was wondering if you could help me with something
+194.	Can you please let me know what the status of my order is?
+195.	Can you please provide me with more information about your product?
+196.	Can I please have more information about the expenses?  
+197.	Would it be possible to get more information on the project timeline?
